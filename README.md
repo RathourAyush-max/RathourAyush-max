@@ -1,40 +1,163 @@
-<h1 align="center">hello, I'm Rathour ayush</h1>
-<h3 align="center">BCA student | Future Software Engineer</h3>
+<!-- ======================================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathourayushmax&label=Profile%20views&color=0e75b6&style=flat" alt="rathourayushmax" /> </p>
+<!-- INTRODUCTION -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathourayushmax" alt="rathourayushmax" /></a> </p>
+<!-- ======================================================= -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Gozi app**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayush%20Rathour&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" alt="Profile banner"/>
 
-- 🌱 I’m currently learning **content creatotion**
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Building+projects+and+learning+every+day;Exploring+technology+one+commit+at+a+time" alt="Typing SVG"/> </a>
 
-- 👯 I’m looking to collaborate on **gozi app**
+<p> <a href="https://github.com/rathourayushmax"> <img src="https://img.shields.io/badge/GitHub-rathourayushmax-181717?style=for-the-badge&logo=github" alt="GitHub profile"/> </a> <img src="https://komarev.com/ghpvc/?username=rathourayushmax&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/> </p>
 
-- 🤝 I’m looking for help with **gozi app**
+Welcome to my corner of GitHub! 👋
 
-- 💬 Ask me about **My SQL , python**
+I enjoy exploring technology, building projects, solving problems, and continuously improving my development skills.
 
-- 📫 How to reach me **hustlewithversse@gamil.com**
+</div>
 
-- ⚡ Fun fact **i am a gamer**
+<!-- ======================================================= -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rathour ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathour ayush" height="30" width="40" /></a>
-<a href="https://instagram.com/_chirayu.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chirayu.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/not ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="not ayush" height="30" width="40" /></a>
-<a href="https://discord.gg/not ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="not ayush" height="30" width="40" /></a>
-</p>
+<!-- ABOUT ME -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ======================================================= -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathourayushmax&show_icons=true&locale=en&layout=compact" alt="rathourayushmax" /></p>
+👨‍💻 About Me
+🔭 I'm exploring new ideas and building projects.
+🌱 I'm continuously learning and improving my technical skills.
+💡 I enjoy solving problems and experimenting with technology.
+🚀 My goal is to build useful projects and grow as a developer.
+🤝 I'm open to collaborating on interesting projects.
+"Great things are built one step, one line, and one commit at a time."
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathourayushmax&show_icons=true&locale=en" alt="rathourayushmax" /></p>
+<!-- ======================================================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathourayushmax&" alt="rathourayushmax" /></p>
- 
+<!-- TECH STACK -->
+
+<!-- ======================================================= -->
+
+🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<!-- Customize these icons to match your actual skills. -->
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
+
+</div>
+
+<!-- Add languages, frameworks, and databases you actually use: Example: html,css,js,python,java,react,nodejs,mongodb -->
+
+<!-- ======================================================= -->
+
+<!-- GITHUB ANALYTICS -->
+
+<!-- ======================================================= -->
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/rathourayushmax"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=rathourayushmax&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics"/> </a>
+
+<a href="https://github.com/rathourayushmax"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathourayushmax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages"/> </a>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=rathourayushmax&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- CONTRIBUTION GRAPH -->
+
+<!-- ======================================================= -->
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathourayushmax&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- CONTRIBUTION CALENDAR -->
+
+<!-- ======================================================= -->
+
+🗓️ Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2f81f7/rathourayushmax" width="100%" alt="GitHub contribution calendar"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- GITHUB TROPHIES -->
+
+<!-- ======================================================= -->
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rathourayushmax&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub achievement trophies"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- FEATURED PROJECTS -->
+
+<!-- ======================================================= -->
+
+🚀 Featured Projects
+
+<div align="center">
+
+<!-- Replace the repository names below with your actual projects. -->
+
+<a href="https://github.com/rathourayushmax/YOUR_PROJECT_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rathourayushmax&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured project one"/> </a>
+
+<a href="https://github.com/rathourayushmax/YOUR_PROJECT_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rathourayushmax&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured project two"/> </a>
+
+</div>
+
+💡 Personalize this section: Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with the exact names of two existing public repositories. Add more project cards if you have additional projects worth showcasing.
+
+<!-- ======================================================= -->
+
+<!-- CONNECT WITH ME -->
+
+<!-- ======================================================= -->
+
+🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rathourayushmax"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+<!-- Add your other social links when available. <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> -->
+
+</div>
+
+<div align="center">
+
+💙 Thanks for visiting my profile!
+
+If you find something interesting, feel free to explore my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer banner"/>
+
+Designed with ❤️ by Ayush Rathour
+
+</div>
